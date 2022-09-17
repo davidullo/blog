@@ -1,0 +1,18 @@
+baseURL = 'https://davidullo.github.io/'
+languageCode = 'en-us'
+title = 'Davide Barbieri - Blog'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'gray'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'davidebrbr'     # twitter.com/YOUR_TWITTER_ID
+  github = 'davidullo'       # github.com/YOUR_GITHUB_ID
+  instagram = 'davidebarbieri' # instagram.com/YOUR_INSTAGRAM_ID
+
+  # home page profile
+
+
+  monoDarkIcon = true             # show monochrome dark mode icon

@@ -1,0 +1,7 @@
+[submodule "davidebarbieriblog/themes/paper"]
+	path = davidebarbieriblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "davidebarbieriblog/public"]
+	path = davidebarbieriblog/public
+	url = https://github.com/davidullo/davidullo.github.io.git
+	branch = main
