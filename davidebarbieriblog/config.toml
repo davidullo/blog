@@ -1,6 +1,6 @@
 baseURL = 'https://davidullo.github.io/'
 languageCode = 'en-us'
-title = 'Davide Barbieri - Blog'
+title = 'Davide Barbieri • Blog'
 theme = "paper"
 
 [params]
